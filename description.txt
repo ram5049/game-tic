@@ -11,7 +11,7 @@ contains 5 files :
        - function_list.c: contains the function which are common in both the modes 1 & 2 to reduce space and time complexity of the program
 
 
-mentions: \
+mentions:
 Tanish Pooniya
 Rohan Satpati
 Divyanshu Thapliyal
