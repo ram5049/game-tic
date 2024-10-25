@@ -1,2 +1,5 @@
 # game-tic
-mini project for 1st semester B. Tech at DIT University - Tic Tac Toe
+<hr>
+mini project for 1st semester B. Tech at DIT University 
+<br>
+- Tic Tac Toe
