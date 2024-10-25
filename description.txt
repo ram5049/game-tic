@@ -1,0 +1,18 @@
+Has 2 mode to play
+   - VS COMPUTER
+   - VS FRIEND
+
+you can press "1" on your keyboard to play mode 1 & "2' on your keyboard to play mode 2.
+contains 5 files : 
+       - main.c: this file contains the main method of the program and executes all the other function sequentially one after another
+       - file-header.h: this is a user defined header file which contains the function prototypes of the program and also some global variables
+       - ai.c: this contains the algorithm/code segment in which the computer play its move when required
+       - 1v1.c: it has two important function namely: friend_1Move for 1st player to move and friend_2Move for 2nd player to play its move
+       - function_list.c: contains the function which are common in both the modes 1 & 2 to reduce space and time complexity of the program
+
+
+mentions: \
+Tanish Pooniya;
+Rohan Satpati;
+Divyanshu Thapliyal;
+Raman Kumar Singh (author)
